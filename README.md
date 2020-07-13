@@ -9,3 +9,4 @@ You need to install following things in your computer.
 6. Extract outline.zip file here
 7. Go to Chrome and type 'localhost/outline'
 8. Enjoy# Tool-for-Outline-Editing.-
+# Tool-for-Outline-Editing.-
